@@ -14,6 +14,7 @@ function App() {
     minValue: 5,
     maxValue: 15,
   });
+console.log(incCount)
   return (
     <div className="App">
       {/* DO NOT CHANGE the 5 lines below   */}
